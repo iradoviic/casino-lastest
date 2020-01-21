@@ -1,0 +1,69 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    justify-items: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color:	#FFD700;
+    min-height: 50%;
+    width: 25%;
+}
+
+.registerBtn {
+    background-color: 	#ADFF2F; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    margin:15px;
+    text-decoration: none;
+    display: inline-block;
+    justify-content: row;
+    font-size: 16px;
+}
+
+.loginBtn {
+    background-color: #6c9389; 
+    justify-content: row;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    background-color:  #6c9389; 
+    height: 40px;
+    width: 120px;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px 10px;
+}
+
+.backBtn{
+    background-color: #FF7F50;
+    height: 40px;
+    width: 120px;
+    border: none;
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border-radius: 20px 10px;
+
+}
+
+.check{
+    margin-top:30px;
+    margin-bottom:15px;
+}
